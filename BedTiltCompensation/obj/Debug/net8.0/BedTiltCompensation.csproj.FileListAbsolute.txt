@@ -1,0 +1,14 @@
+C:\Users\tauda\source\repos\BedTiltCompensation\BedTiltCompensation\bin\Debug\net8.0\BedTiltCompensation.exe
+C:\Users\tauda\source\repos\BedTiltCompensation\BedTiltCompensation\bin\Debug\net8.0\BedTiltCompensation.deps.json
+C:\Users\tauda\source\repos\BedTiltCompensation\BedTiltCompensation\bin\Debug\net8.0\BedTiltCompensation.runtimeconfig.json
+C:\Users\tauda\source\repos\BedTiltCompensation\BedTiltCompensation\bin\Debug\net8.0\BedTiltCompensation.dll
+C:\Users\tauda\source\repos\BedTiltCompensation\BedTiltCompensation\bin\Debug\net8.0\BedTiltCompensation.pdb
+C:\Users\tauda\source\repos\BedTiltCompensation\BedTiltCompensation\obj\Debug\net8.0\BedTiltCompensation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tauda\source\repos\BedTiltCompensation\BedTiltCompensation\obj\Debug\net8.0\BedTiltCompensation.AssemblyInfoInputs.cache
+C:\Users\tauda\source\repos\BedTiltCompensation\BedTiltCompensation\obj\Debug\net8.0\BedTiltCompensation.AssemblyInfo.cs
+C:\Users\tauda\source\repos\BedTiltCompensation\BedTiltCompensation\obj\Debug\net8.0\BedTiltCompensation.csproj.CoreCompileInputs.cache
+C:\Users\tauda\source\repos\BedTiltCompensation\BedTiltCompensation\obj\Debug\net8.0\BedTiltCompensation.dll
+C:\Users\tauda\source\repos\BedTiltCompensation\BedTiltCompensation\obj\Debug\net8.0\refint\BedTiltCompensation.dll
+C:\Users\tauda\source\repos\BedTiltCompensation\BedTiltCompensation\obj\Debug\net8.0\BedTiltCompensation.pdb
+C:\Users\tauda\source\repos\BedTiltCompensation\BedTiltCompensation\obj\Debug\net8.0\BedTiltCompensation.genruntimeconfig.cache
+C:\Users\tauda\source\repos\BedTiltCompensation\BedTiltCompensation\obj\Debug\net8.0\ref\BedTiltCompensation.dll
