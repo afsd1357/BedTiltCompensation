@@ -23,7 +23,9 @@ namespace BedTiltCompensation.Objects3D.Concepts3D
             Vector3D BNV = BaseNormalVector;
             Point3D POI = pointOnIntersection;
 
-            this.Axis = new Line3D(TNV, BNV, POI);
+            //important order of BNV and TNV following the righthand rule
+            //ensuring that the tilt goes down to the right of the unitvector while z is up
+            this.Axis = new Line3D(BNV, TNV, POI); 
             this.UnitVector = new Vector3D (BNV.CrossProduct(TNV).GetUnitVector());
             this.RotationAngle = EnsureAngle(BNV.AngleBetween2Vectors(TNV));
             this.LineDistanceFromOrion = POI;
