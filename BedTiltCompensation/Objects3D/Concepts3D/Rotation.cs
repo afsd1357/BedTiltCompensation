@@ -68,7 +68,7 @@ namespace BedTiltCompensation.Objects3D.Concepts3D
 
             return p;
         }
-        // https://en.wikipedia.org/wiki/Rodrigues%27_formula
+        // https://en.wikipedia.org/wiki/Rodrigues%27_rotation_formula
         private Point3D RotatePoint(Point3D p)
         {
             //split the equation into sections to make it more readable

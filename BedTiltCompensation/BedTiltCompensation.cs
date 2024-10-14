@@ -41,7 +41,7 @@ namespace BedTiltCompensation
             Vector3D v2 = new Vector3D(P3.SubtractCoordinates(PMiddle));
 
             //get normal vector of plan of tilted bed
-            Vector3D tiltedNormalVector = new Vector3D(v1.CrossProduct(v2));
+            Vector3D tiltedNormalVector = new Vector3D(v1.CrossProduct(v2)); //we need to ensure that this vector has its direction so that the tilt moves down to its right, relative to Z being up
 
             
             this.Rotater = new Rotation(tiltedNormalVector, this.BaseNormalVector, PMiddle);
